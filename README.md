@@ -1,6 +1,8 @@
 # Simple-youtube-download
 A simply python script for fast downloading of youtube videos in either mp3 or mp4
 
+**I made this script because I was tired of having to type out the commands for downloading youtube videos for archival purposes.**
+
 ## Installation instructions
 Make sure to you have yt-dlp installed
 ```
